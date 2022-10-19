@@ -1,7 +1,7 @@
 <template>
   <header class="header-wrapper">
     <div class="logo-wrapper">
-      
+      <img src="" alt="">
     </div>
     <div class="nav-wrapper">
 
